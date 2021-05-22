@@ -1,4 +1,4 @@
-<h1>EIPL6G01</h1>
+<h1>Trabalho realizado no âmbito da cadeira de LI2 do MIEI da UM.</h1>
 <p>Trabalho realizado por:</p>
 
 <ul>
