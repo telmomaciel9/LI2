@@ -1,6 +1,6 @@
 # LI2
 
-##2 Trabalho realizado no âmbito da cadeira de LI2 do MIEI da UM.
+## Trabalho realizado no âmbito da cadeira de LI2 do MIEI da UM.
 
 <p>Trabalho realizado por:</p>
 
